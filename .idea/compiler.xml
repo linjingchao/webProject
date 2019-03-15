@@ -8,8 +8,10 @@
         <outputRelativeToContentRoot value="true" />
         <module name="factory" />
         <module name="prototype" />
+        <module name="proxy" />
         <module name="singleton" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="7" />
   </component>
 </project>
