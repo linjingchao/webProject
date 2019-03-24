@@ -13,6 +13,8 @@
         <option value="$PROJECT_DIR$/strategy/pom.xml" />
         <option value="$PROJECT_DIR$/template/pom.xml" />
         <option value="$PROJECT_DIR$/adapter/pom.xml" />
+        <option value="$PROJECT_DIR$/decorator/pom.xml" />
+        <option value="$PROJECT_DIR$/observer/pom.xml" />
       </list>
     </option>
   </component>
